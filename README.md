@@ -2,6 +2,7 @@
 
 
 Georgia Institute of Technology
+
 Master of Computer Science
 CS7643 Deep Learning Final Project
 (cs7643-2021-Group69)
